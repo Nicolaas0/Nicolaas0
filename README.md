@@ -7,11 +7,6 @@
 - 🥅 My life goals is to make my parents life a decent live
 - 🌟 I love to do something new
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nicolaas Spotify Playing" width="350" />](https://open.spotify.com/user/rcsazbjvtqqx13q9z4heaacef)
-
-<br />
 
 ### Languages and Tools:
 
