@@ -1,6 +1,6 @@
 ### Hello, My name is Albert Nicolaas Augustinus Lerrick 👋
 
-## I Like to create User Interface so much👨🏼‍💻
+## Just a kid that wants to be a Front-End Developer👨🏼‍💻
 
 - 🧑🏼‍🏫 I study at CCIT FTUI
 -  🤖 I have a goal that i want to create a bot in discord
