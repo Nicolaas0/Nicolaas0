@@ -1,8 +1,6 @@
-### Hello, My name is Albert Nicolaas Augustinus Lerrick 👋
+### Albert Nicolaas Augustinus Lerrick
 
-## Just a kid that wants to be a Front-End Developer👨🏼‍💻
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolaas0&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolaas0&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
