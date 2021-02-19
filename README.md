@@ -2,7 +2,6 @@
 <br />
 <br />
 I want to be Fullstack Developer and currently in love with Javascript.
-<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolaas0&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 
