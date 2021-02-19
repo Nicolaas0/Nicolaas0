@@ -2,10 +2,7 @@
 
 ## Just a kid that wants to be a Front-End Developer👨🏼‍💻
 
-- 🧑🏼‍🏫 I study at CCIT FTUI
--  🤖 I have a goal that i want to create a bot in discord
-- 🥅 My life goals is to make my parents life a decent live
-- 🌟 I love to do something new
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolaas0&count_private=true&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
